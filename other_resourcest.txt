@@ -1,0 +1,5 @@
+1. https://howtomechatronics.com/projects/diy-mars-perseverance-rover-replica-with-arduino/
+2. https://www.youtube.com/watch?v=NOZZMsMAGh0&t=934s
+3. https://www.youtube.com/watch?v=McydwwR8xu4
+4. https://github.com/marsiitr/Mars-Rover
+5. https://cults3d.com/en/3d-model/game/mars-rover-perseverance-replica-howtomechatronics
