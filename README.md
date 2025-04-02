@@ -1,5 +1,5 @@
 <div align="center">
-<h1>BOTZO 🌌</h1> 
+<h1>Mars Rover 🌌</h1> 
 
 **`The Space rover pro :)`**
 
